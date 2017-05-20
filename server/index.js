@@ -10,8 +10,6 @@ var twilio = require('../services/twilio');
 var home = require('./routers/home');
 var grades = require('./routers/grades');
 var stripeCharge = require('../services/stripe');
-
-
 var ensureAuthorized = services.ensureAuth;
 var createToken = services.createToken;
 
