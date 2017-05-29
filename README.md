@@ -1,13 +1,13 @@
-# Skooled
+# SkooledDS
 
-> An integrated platform for communication between teachers and parents. Teachers can share information on student progress, grades and scheduling updates. In addition, the platform provides parents the ability to give permission on pressing questions.
+> A management tool for educators, easing communication and accessibility to school related activites for parents and students.
 
 ## Team
 
-  - David Gould
-  - Nick Anderson
-  - Preda Wen
-  - Tom Dickson
+  - Lavanya Ammi Chandrashekara
+  - Ming Feng
+  - Salih Abuelyaman
+  - Steven Kim
 
 ## Table of Contents
 
@@ -51,6 +51,8 @@ There are five distinct folders for review.
 - react-router 4.1.x
 - react-router-dom 4.1.x
 - react-tap-event-plugin 2.0.x
+- stripe 4.19.x
+- twillio 3.0.x
 
 ## Development
 
